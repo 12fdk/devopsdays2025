@@ -1,6 +1,7 @@
 ---
 title: K8S
 ---
+![k8s](k8s.svg.png)
 
 Docker is fine, but let's try the K8s as well
 
