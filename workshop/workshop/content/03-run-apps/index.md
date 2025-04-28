@@ -1,6 +1,7 @@
 ---
 title: Run Apps
 ---
+![docker](docker.svg)
 
 An important task in any lab, is to be able to create, build and expose an app.
 

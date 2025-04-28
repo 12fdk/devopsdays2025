@@ -1,6 +1,7 @@
 ---
 title: Workshop Instructions
 ---
+![manual](manual.jpg.webp)
 
 To build a "on demand" enviroment, that just works, a lot of automations needed.
 
