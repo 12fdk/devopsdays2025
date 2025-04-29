@@ -12,4 +12,7 @@ open:
 	@educates browse-workshops
 
 destroy:
+	@educates delete-cluster
+
+destroy-all:
 	@educates delete-cluster --all
